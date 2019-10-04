@@ -1,0 +1,14 @@
+{
+  "name": "jogo",
+  "version": "1.0.0",
+  "description": "Um sistema de ranqueamento de um jogo. ",
+  "author": "João Emmanuel <joaoeizidio@gmail.com>",
+  "main": "jogo.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^2.8.0"
+  },
+  "scripts": {
+    "start": "node jogo.js"
+  }
+}
